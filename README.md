@@ -7,4 +7,4 @@
 個人網頁
 ...
 😄
-![NKUST](nkust.jpeg "NKUST)
+![NKUST](nkust.jpg "NKUST)
