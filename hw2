@@ -1,5 +1,6 @@
-## 甘特圖
-![Gantt Chart](甘特圖.png "Gantt Chart")
 
-## pert
-![PERT](PERT CPM 關鍵路徑.png "PERT")
+## 甘特圖
+![Gantt Chart](./gantt.png)
+
+## PERT
+![PERT](./pert_cpm.png)
